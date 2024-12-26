@@ -175,6 +175,7 @@ export const workExperience = [
     id: 1,
     title: "Frontend Engineer Intern",
     desc: "Assisted in the development of a web-based platform using React.js,Next.js enhancing interactivity.",
+    company: "Health Mudhra",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
@@ -182,6 +183,8 @@ export const workExperience = [
     id: 2,
     title: "Full Stack Developer Intern",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    company: "Modgenics Technologies",
+
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
